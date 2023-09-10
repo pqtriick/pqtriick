@@ -1,7 +1,7 @@
 ### Hi there my name is Patrick👋
 
 <img align="left" alt="pqtriick's Github Stats" src="https://github-readme-stats-pqtriick.vercel.app/api?username=pqtriick&show_icons=true&theme=dark" />
-<img align="right" alt="pqtriick's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=pqtriick&theme=dark" />
+<img align="left" alt="pqtriick's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=pqtriick&theme=dark" />
 
 
 # Languages & Tools:
