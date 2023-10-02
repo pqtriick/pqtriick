@@ -9,5 +9,5 @@
 <code><img height="50" alt="IJIdea" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png"></code>
 
 # Stats
-<img align="left" alt="pqtriick's Github Stats" src="https://github-readme-stats-pqtriick.vercel.app/api?username=pqtriick&show_icons=true&theme=dark&include_all_commits=true" />
+<img align="left" alt="pqtriick's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=pqtriick&show_icons=true&theme=dark" />
 <img align="left" alt="pqtriick's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=pqtriick&theme=dark" />
