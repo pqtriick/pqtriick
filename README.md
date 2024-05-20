@@ -23,5 +23,6 @@
 <img width="12" />
 <br></br>
 
-<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=pqtriick&show_icons=true&theme=dark&locale=en" alt="pqtriick" /></p>
-<p align ="right"><img alight="right" width = "480" height = "126" src = "https://spotify-github-profile.vercel.app/api/view?uid=diegamingzitrone&cover_image=true&theme=natemoo-re&show_offline=false&background_color=181616&interchange=false&bar_color=ffffff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile"></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pqtriick&show_icons=true&theme=dark&locale=en" alt="pqtriick" /></p>
+<br></br>
+<p align ="center"><img width = "480" height = "126" src = "https://spotify-github-profile.vercel.app/api/view?uid=diegamingzitrone&cover_image=true&theme=natemoo-re&show_offline=false&background_color=181616&interchange=false&bar_color=ffffff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile"></p>
