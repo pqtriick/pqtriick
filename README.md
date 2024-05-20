@@ -1,11 +1,12 @@
 <p align = "center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&duration=3000&color=520CFF&background=5B00FF06&center=true&vCenter=true&random=false&width=456&lines=Discord+Bot+Developer;Skript+Developer;Minecraft+Plugins" alt="Typing SVG" /></a>
-<h3 align="center">17 Year old hobby software developer</h3>
+<h1 align="center">17 Year old hobby software developer</h1>
 
 
 <p align="center"> - Mostly working on minecraft plugins and mods
 <p align="center"> - You can find most of my resources here and on SpigotMC
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
+<br></br>
 <p align="center">
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
 <img width="12" />
@@ -22,6 +23,8 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <img width="12" />
 <br></br>
+
+<h2 align="center">Stats</h2>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pqtriick&show_icons=true&theme=dark&locale=en" alt="pqtriick" /></p>
 <br></br>
