@@ -1,5 +1,5 @@
 <p align = "center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&duration=3000&color=520CFF&background=5B00FF06&center=true&vCenter=true&random=false&width=456&lines=Discord+Bot+Developer;Skript+Developer;Minecraft+Plugins" alt="Typing SVG" /></a>
-<h1 align="center">17 Year old hobby software developer</h1>
+<h1 align="center">18 Year old hobby software developer</h1>
 
 
 <p align="center"> - Mostly working on minecraft plugins and mods
