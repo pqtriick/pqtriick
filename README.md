@@ -8,11 +8,7 @@
 <h2 align="center">Languages and Tools:</h2>
 <br></br>
 <p align="center">
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<img width="12" />
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-<img width="12" />
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/jetbrains_idea/images/d4398a36-c378-4511-a508-106ded6cd69a.svg" alt="ijidea" width="40" height="40"/> </a>
 <img width="12" />
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <img width="12" /> 
