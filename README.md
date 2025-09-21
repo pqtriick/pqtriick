@@ -1,7 +1,7 @@
 
 # 👨‍💻 About Me:
 <h3 align = "center">Hey I'm Patrick<br><br>
-18 year old hobby software developer mostly working on minecraft related stuff.
+19 year old Computer Science Student mostly working on minecraft related stuff.
 
 
 # 💻 Tech Stack:
